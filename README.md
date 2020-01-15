@@ -1,7 +1,7 @@
-# Nodejs_Mysql_Course
-Nodejs Mysql Basic Course
+# Nodejs_Mysql_Course </br>
+Nodejs Mysql Basic Course </br>
 
-########### Node Js With Mysql #############
+########### Node Js With Mysql ############# </br>
 Step 1 : intall mysql  </br>
          npm install mysql</br>
          npm uninstall mysql</br>
